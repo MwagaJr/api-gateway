@@ -32,7 +32,7 @@ api-gateway/
 ### Backend
 - Laravel 
 - REST API
-- MySQL / PostgreSQL
+- MySQL
 
 ### Frontend
 - React
